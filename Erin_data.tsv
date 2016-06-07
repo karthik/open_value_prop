@@ -1,0 +1,40 @@
+discipline	variable	value	type
+agricultural studies	1	1.9	applied science
+biology	1	1.0	life science
+business	1	1.0	social science
+ecology	1	0.89	interdisciplinary science
+economics	1	1.0	social science
+education	1	1.0	social science
+law	1	1.53	social science
+mathematics	1	1.35	interdisciplinary science
+medicine	1	1.83	applied science
+physics/astronomy	1	1.74	physical science
+political science	1	1.05	social science
+sociology/social sciences	1	1.88	social science
+biology	2	1.08	life science
+economics	2	1.49	social science
+law	2	1.58	social science
+mathematics	2	1.71	interdisciplinary science
+physics/astronomy	2	3.5	physical science
+political science	2	1.86	social science
+physics/astronomy	3	6.0	physical science
+sociology/social sciences	3	2.03	social science
+agricultural studies	4	6.18	applied science
+biology	4	1.36	life science
+business	4	1.76	social science
+communications studies	4	1.78	social science
+computer science	4	2.57	applied science
+ecology	4	1.49	interdisciplinary science
+economics	4	1.77	social science
+education	4	1.77	social science
+engineering	4	1.51	applied science
+health	4	1.57	applied science
+law	4	2.08	social science
+management	4	1.92	social science
+mathematics	4	1.91	interdisciplinary science
+medicine	4	4.66	applied science
+philosophy	4	1.45	social science
+physics/astronomy	4	6.8	physical science
+political science	4	2.54	social science
+psychology	4	2.08	social science
+sociology/social sciences	4	2.72	social science
