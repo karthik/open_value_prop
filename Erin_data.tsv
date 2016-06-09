@@ -15,9 +15,9 @@ biology	2	1.08	Life science
 economics	2	1.49	Social science
 law	2	1.58	Social science
 mathematics	2	1.71	Formal science
-physics/astronomy	2	3.5	Physical science
+physics/astronomy	2	2.5	Physical science
 political science	2	1.86	Social science
-physics/astronomy	3	6.0	Physical science
+physics/astronomy	3	5.0	Physical science
 sociology/Social sciences	3	2.03	Social science
 agricultural studies	4	6.18	Applied science
 biology	4	1.36	Life science
@@ -34,7 +34,7 @@ management	4	1.92	Social science
 mathematics	4	1.91	Formal science
 medicine	4	4.66	Applied science
 philosophy	4	1.45	Social science
-physics/astronomy	4	6.8	Physical science
+physics/astronomy	4	5.8	Physical science
 political science	4	2.54	Social science
 psychology	4	2.08	Social science
 sociology/Social sciences	4	2.72	Social science
